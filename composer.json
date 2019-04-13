@@ -1,1 +1,16 @@
-'{}' 
+{
+  "name": "practicas/fernandaochoa",
+	"type": "project",
+	"description": "The example of my php practices",
+	"license": "BSD-3-Clause",
+  "authors": [
+		{
+			"name": "FernandaOchoa",
+			"homepage": "https://github.com/FernandaOchoa"
+		},
+		{
+			"name": "Fernanda Ochoa",
+			"homepage": "https://github.org/FernandaOchoa"
+		}
+	]
+}
